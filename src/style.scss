@@ -20,6 +20,22 @@ h4 {
 
 section {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: repeat(6, 50px);
+    grid-template-columns: repeat(3, 250px);
+    grid-template-rows: repeat(6, 150px);
+    gap: 15px;
+}
+section>div {
+    border: solid 1px black;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    padding: 45px;
+}
+.one {
+    background-color: rgb(155, 14, 14);
+}
+svg {
+    width: 100%;
+    max-width: 56px;
+
 }
