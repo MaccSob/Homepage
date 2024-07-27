@@ -82,4 +82,15 @@ a:visited {
 
 a:hover {
   color: #9c1f44;
+}
+
+.myProjects {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(6, 150px);
+  gap: 15px;
+}
+
+.div {
+  border: #0369a1 1px solid;
 }/*# sourceMappingURL=style.css.map */

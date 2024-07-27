@@ -81,3 +81,13 @@ a:visited {
   a:hover {
     color: $secondary;
   }
+  .myProjects {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(6, 150px);
+    gap: 15px;
+  }
+  .div {
+    border: $primary 1px solid;
+  }
+ 
