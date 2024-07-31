@@ -1,7 +1,6 @@
 # Homepage
 
-
-TOP HomePage 
+Homepage of my site with personal projects and stuff of mine.
 
 
 
